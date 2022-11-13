@@ -162,4 +162,4 @@ async def klepto(ctx,*,message):
                 await ctx.send(embed = embed)
 
     
-bot.run('ODc4ODA0MjQ0NDA3NDE0ODA0.YSGgOw.0gb6O_19IkxhmSaGG-rwORllmhA')
+bot.run('insertTokenHere')
